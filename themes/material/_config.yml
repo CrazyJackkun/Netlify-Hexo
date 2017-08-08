@@ -120,10 +120,10 @@ toc:
 
 # SNS Menu
 sns:
-    email: youremail@email.com
-    facebook: "https://www.facebook.com/facebook"
-    twitter: "https://twitter.com/twitter"
-    googleplus: "https://www.google.com/"
+    email: 13767297313@163.com
+    facebook: ""
+    twitter: ""
+    googleplus: ""
     weibo:
     instagram:
     tumblr:
@@ -132,6 +132,7 @@ sns:
     zhihu:
     bilibili:
     telegram:
+    QQ: 3242819112
 
 # SNS Share Switch
 sns_share:
@@ -140,7 +141,7 @@ sns_share:
     googleplus: true
     weibo: true
     linkedin: false
-    qq: false
+    qq: true
     telegram: false
 
 # Sidebar Customize
