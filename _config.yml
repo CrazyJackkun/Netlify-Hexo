@@ -9,7 +9,7 @@ author: CloudStudio
 language: zh-Hans
 timezone:
 
-url: https://blog.flyme.host
+url: blog.flyme.host
 root: /
 permalink: :title/
 permalink_defaults:
@@ -73,5 +73,5 @@ theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-deploy:https://github.com/2214445407/Netlify-Hexo.git
-  type:github
+deploy:
+  type:
