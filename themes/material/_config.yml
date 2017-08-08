@@ -163,7 +163,7 @@ sidebar:
         divider: false
     pages:
         #About:
-            #link: "/about"
+            #link: "#about"
             #icon: person
             #divider: false
     article_num:
